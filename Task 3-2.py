@@ -1,0 +1,12 @@
+s = int(input())
+a = str(s)
+print('1','-', a.count('1'), end = '\n')
+print('2','-', a.count('2'),end = '\n')
+print('3','-', a.count('3'),end = '\n')
+print('4','-', a.count('4'),end = '\n')
+print('5','-', a.count('5'),end = '\n')
+print('6','-', a.count('6'),end = '\n')
+print('7','-', a.count('7'),end = '\n')
+print('8','-', a.count('8'),end = '\n')
+print('9','-', a.count('9'),end = '\n')
+
