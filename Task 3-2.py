@@ -1,5 +1,6 @@
 s = int(input())
 a = str(s)
+print('0','-', a.count('0'), end = '\n')
 print('1','-', a.count('1'), end = '\n')
 print('2','-', a.count('2'),end = '\n')
 print('3','-', a.count('3'),end = '\n')
